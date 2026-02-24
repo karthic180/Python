@@ -27,8 +27,7 @@ Open-source cybersecurity tool that analyzes domains for common risks including 
 🔗 Cyber Risk Scanner – GitHub (github.com in Bing)
 
 ## 📈 Stock Quotes App
-<p>
-<a href="https://www.python.org/">
+<p><a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </a><a href="https://www.sqlite.org/"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> </a> <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> </a> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> </a> <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> </a> </p>
 </p>
