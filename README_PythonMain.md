@@ -1,96 +1,96 @@
-# **Programming Portfolio**
+## Programming Portfolio
 
-Backend-focused software developer with hands-on experience building data-driven applications, automation workflows, and security-focused tools using Python. Strong foundation in API integration, data processing, and full project lifecycle development from concept to deployment.
+## Python Projects
 
----
-
-## **Python Projects**
-
----
-
-### 🌤️ **Weather Application**
+## 🌤️ Weather Application
 
 <p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
 </p>
 
-**Description:**
+Description:  
+
 End-to-end weather analytics application built with Python and Streamlit. Integrates real-time APIs, automated ETL workflows, and interactive dashboards powered by SQLite.
 
-🔗 **[Weather Application – GitHub](https://github.com/karthic180/weatherdashboard)**
+🔗 Weather Application – GitHub (github.com in Bing)
 
----
-
-### ⛅ **Weather ETL Pipeline**
-
+⛅ Weather ETL Pipeline
 <p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
 </p>
 
-**Description:**
+Description:  
 Automated ETL pipeline that extracts, transforms, and loads live weather data into SQLite. Includes a command-line interface for querying stored city data.
 
-🔗 **[Weather ETL Pipeline – GitHub](https://github.com/karthic180/weatherping)**
+🔗 Weather ETL Pipeline – GitHub (github.com in Bing)
 
----
-
-### 🔐 **Cyber Risk Scanner**
-
+## 🔐 Cyber Risk Scanner
 <p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 </p>
 
-**Description:**
+Description:  
 Open-source cybersecurity tool that analyzes domains for common risks including SSL issues, open ports, and domain metadata. Implements automated risk scoring and supports both CLI and web-based usage.
 
-🔗 **[Cyber Risk Scanner – GitHub](https://github.com/karthic180/cyber-risk-scanner)**
+🔗 Cyber Risk Scanner – GitHub (github.com in Bing)
 
----
-
-### 📈 **Stock Quotes App**
-
+## 📈 Stock Quotes App
 <p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 </p>
 
-**Description:**
+Description:  
 Real-time stock quote application featuring API integration, search functionality, and response caching for improved performance.
 
-🔗 **[Stock Quotes App – GitHub](https://github.com/karthic180/stockquotes)**
+🔗 Stock Quotes App – GitHub (github.com in Bing)
 
----
+## 🌍 Global Data ETL Pipeline
+<p>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
+</p>
 
-# **Technical Skills**
+Description:  
+A scalable ETL pipeline that collects, transforms, and stores global datasets (population, GDP, CO₂ emissions, etc.). Includes automated ingestion, data validation, and structured storage for analytics.
 
-### **Languages**
+🔗 Global Data ETL – GitHub
 
-* Python
-* SQL
-* Bash / Shell
-* PowerShell
+## Technical Skills
+## Languages
+Python
 
-### **Frameworks & Libraries**
+SQL
 
-* Streamlit
-* Flask
-* Requests
-* Pytest
+Bash / Shell
 
-### **Databases**
+PowerShell
 
-* SQLite
+Frameworks & Libraries
+Streamlit
 
-### **Tools & Technologies**
+Flask
 
-* Git & GitHub
-* REST APIs
-* Virtual Environments (venv)
-* Unit Testing & Test Coverage
-* CLI Application Development
-* Web Application Development
-* ETL Pipeline Development
+Requests
 
----
+Pytest
+
+Databases
+SQLite
+
+## Tools & Technologies
+Git & GitHub
+
+REST APIs
+
+Virtual Environments (venv)
+
+Unit Testing & Test Coverage
+
+CLI Application Development
+
+Web Application Development
+
+ETL Pipeline Development
