@@ -1,64 +1,79 @@
-#  Python Portfolio  
-A curated collection of my Python projects, focusing on **ETL pipelines**, **automation**, **data engineering**, **APIs**, and **machine learning**.
+#  Python Portfolio
+
+![Python](https://img.shields.io/badge/Python-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-blueviolet?logo=visualstudiocode)
 
 ---
 
-##  Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![APIs](https://img.shields.io/badge/API%20Integration-orange)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-green)
-![Automation](https://img.shields.io/badge/Automation-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-purple)
 
-###  Developer Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+##  Global Data ETL
+
+**End-to-End ETL pipeline for global datasets**
+
+* Extracts structured datasets
+* Performs cleaning & transformation
+* Loads into persistent storage
+* Designed with modular, reusable architecture
+
+ [Repo Link](https://github.com/karthic180/global-data-etl)
 
 ---
 
-#  Featured Python Projects  
+##  Cyber Risk Scanner
 
-##  Global Data ETL  
-![Repo](https://img.shields.io/badge/Type-ETL-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
+**Domain security analysis tool**
 
-A full end‑to‑end ETL pipeline for global datasets.  
-🔗 https://github.com/karthic180/global-data-etl  
+* Scans domains for common cybersecurity risks
+* Automates risk detection workflows
+* Structured CLI-based Python tool
 
----
-
-##  Cyber Risk Scanner  
-![Security](https://img.shields.io/badge/Security-Scanner-red)
-![Python](https://img.shields.io/badge/Python-3776AB)
-
-A Python tool that scans domains for common cyber risks.  
- https://github.com/karthic180/cyber-risk-scanner  
+ [Repo Link](https://github.com/karthic180/cyber-risk-scanner)
 
 ---
 
-##  Weather ETL Pipelines  
-![API](https://img.shields.io/badge/API-OpenMeteo-blue)
-![SQLite](https://img.shields.io/badge/Database-SQLite-003B57)
+##  Weather ETL Pipelines
 
-ETL pipelines using Open‑Meteo API + SQLite.  
-- https://github.com/karthic180/weatherping  
-- https://github.com/karthic180/weatherpiping  
-- https://github.com/karthic180/weatherdashboard  
+**API-based ETL systems using Open-Meteo + SQLite**
+
+Projects:
+
+* WeatherPing — [Repo](https://github.com/karthic180/weatherping)
+* WeatherPiping — [Repo](https://github.com/karthic180/weatherpiping)
+* WeatherDashboard — [Repo](https://github.com/karthic180/weatherdashboard)
+
+Focus:
+
+* API extraction
+* Data normalization
+* Persistent storage
+* Pipeline structuring
 
 ---
 
-##  Machine Learning & Utilities  
-![ML](https://img.shields.io/badge/ML-Image%20Classification-yellow)
-![OCR](https://img.shields.io/badge/OCR-Text%20Extraction-lightgrey)
+#  Machine Learning & Utilities
 
-- ImageClassifyAI → https://github.com/karthic180/ImageClassifyAI  
-- PyReceipts → https://github.com/karthic180/PyReceipts  
-- emojitext2 → https://github.com/karthic180/emojitext2  
-- stockquotes → https://github.com/karthic180/stockquotes  
-- weather → https://github.com/karthic180/weather  
+## ImageClassifyAI
+Image classification using machine learning techniques.
+ [Repo](https://github.com/karthic180/ImageClassifyAI)
+
+## PyReceipts
+OCR-based receipt processing tool.
+ [Repo](https://github.com/karthic180/PyReceipts)
+
+## emojitext2
+Text utility and transformation project.
+ [Repo](https://github.com/karthic180/emojitext2)
+
+## stockquotes
+Stock data retrieval and processing utility.
+[Repo](https://github.com/karthic180/stockquotes)
+
+## weather
+Weather data project for API interaction practice.
+ [Repo](https://github.com/karthic180/weather)
+
+#  License
+This repository is licensed under the MIT License.
+
