@@ -7,8 +7,22 @@
 
 ---
 
+## Kaggle Analytics Engineering Project
 
-##  Global Data ETL
+**End-to-End Analytics Engineering Pipeline (dbt + DuckDB + Power BI)**
+
+* ELT pipeline using dbt transformations
+* DuckDB local data warehouse
+* Star schema modeling (fact + dimension tables)
+* Data quality testing & SCD snapshots
+* Power BI dashboard integration
+* GitHub Actions CI automation
+
+[Repo Link](https://github.com/karthic180/kaggle-dbt-powerbi)
+
+---
+
+## Global Data ETL
 
 **End-to-End ETL pipeline for global datasets**
 
@@ -17,11 +31,11 @@
 * Loads into persistent storage
 * Designed with modular, reusable architecture
 
- [Repo Link](https://github.com/karthic180/global-data-etl)
+[Repo Link](https://github.com/karthic180/global-data-etl)
 
 ---
 
-##  Cyber Risk Scanner
+## Cyber Risk Scanner
 
 **Domain security analysis tool**
 
@@ -29,11 +43,11 @@
 * Automates risk detection workflows
 * Structured CLI-based Python tool
 
- [Repo Link](https://github.com/karthic180/cyber-risk-scanner)
+[Repo Link](https://github.com/karthic180/cyber-risk-scanner)
 
 ---
 
-##  Weather ETL Pipelines
+## Weather ETL Pipelines
 
 **API-based ETL systems using Open-Meteo + SQLite**
 
@@ -52,27 +66,34 @@ Focus:
 
 ---
 
-#  Machine Learning & Utilities
+# Machine Learning & Utilities
 
 ## ImageClassifyAI
+
 Image classification using machine learning techniques.
- [Repo](https://github.com/karthic180/ImageClassifyAI)
+[Repo](https://github.com/karthic180/ImageClassifyAI)
 
 ## PyReceipts
+
 OCR-based receipt processing tool.
- [Repo](https://github.com/karthic180/PyReceipts)
+[Repo](https://github.com/karthic180/PyReceipts)
 
 ## emojitext2
+
 Text utility and transformation project.
- [Repo](https://github.com/karthic180/emojitext2)
+[Repo](https://github.com/karthic180/emojitext2)
 
 ## stockquotes
+
 Stock data retrieval and processing utility.
 [Repo](https://github.com/karthic180/stockquotes)
 
 ## weather
+
 Weather data project for API interaction practice.
- [Repo](https://github.com/karthic180/weather)
+[Repo](https://github.com/karthic180/weather)
+
+---
 
 #  License
 This repository is licensed under the MIT License.
